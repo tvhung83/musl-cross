@@ -3,5 +3,5 @@ binutils-*
 kernel-headers-*
 gcc-*
 musl-*
-tarbalss/*
+tarballs/**
 dist/*
