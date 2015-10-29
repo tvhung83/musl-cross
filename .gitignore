@@ -1,0 +1,7 @@
+.hg
+binutils-*
+kernel-headers-*
+gcc-*
+musl-*
+tarbalss/*
+dist/*
